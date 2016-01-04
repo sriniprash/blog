@@ -3,7 +3,28 @@
   
   <url>
     <loc>https://sriniprash.github.io/</loc>
+    <lastmod>2016-01-04T14:09:53+05:30</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sriniprash.github.io/blog/blogging-with-hugo/</loc>
+    <lastmod>2016-01-04T14:09:53+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sriniprash.github.io/colophon/</loc>
+    <lastmod>2016-01-04T12:29:56+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sriniprash.github.io/code/</loc>
+    <lastmod>2016-01-04T12:29:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sriniprash.github.io/about/</loc>
+    <lastmod>2016-01-04T12:28:53+05:30</lastmod>
   </url>
   
 </urlset>
