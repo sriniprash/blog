@@ -1,0 +1,48 @@
+body {
+    font-family: "ProximaNova", "Open Sans", sans-serif;
+}
+
+section.header .name,
+section.header nav ul li,
+section.main .content .title-container .initials,
+section.main .content .page-heading,
+section.main .container.f04 .content .num,
+section.main .content .markdown h1,
+section.main .content .markdown h2,
+section.main .content .markdown h3,
+section.main .content .markdown h4,
+section.main .content .markdown h5,
+section.main .content .markdown h6 {
+    font-family: "ProximaNova", "Raleway",  sans-serif;
+}
+
+.page-heading + .note {
+    color: #666;
+    padding-bottom: 20px;
+}
+
+section .container .content span.key {
+    font-size: 15px;
+    font-family: "Ubuntu Mono", monospace;
+    color: #555 !important;
+}
+
+@media (min-width: 600px) {
+    section.icons .container .content a .icon.ion-ios-email {
+        vertical-align: -1px;                        
+    }
+}
+
+strong {
+    font-weight: 700;
+}
+
+emph {
+    font-style: italic;
+}
+
+section.main.index ul.bulleted-list {
+    list-style: disc inside;
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+}

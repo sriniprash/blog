@@ -1,0 +1,33 @@
+baseurl = "https://sriniprash.github.io/"
+builddrafts = false
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Prashanth Srinivasan"
+title = "Prashanth Srinivasan"
+pygmentsuseclasses = true
+disqusShortname = "sriniprashgithubio"
+pluralizelisttitles = false
+
+[permalinks]
+fixed = ":title/"
+blog = "blog/:slug/"
+
+[params]
+Author = "Prashanth Srinivasan"
+Title = "Prashanth Srinivasan"
+CacheBuster = true
+DateForm = "Jan 2, 2006"
+DateFormFull = "Mon Jan 2 2006 15:04:05 MST"
+Description = "My Personal space!"
+Email = "sriniprash@outlook.com"
+FaviconFile = "img/leaf.ico"
+GATracker = "UA-71952130-1"
+GitHub = "//github.com/sriniprash"
+Initials = "ns"
+Lang = "en"
+LinkedIn = "//linkedin.com/in/prashanth-srinivasan-37422816"
+Twitter = "//twitter.com/sriniprash"
+ExtraCssFiles = [ "/css/proximanova.css", "/css/extra.css" ]
